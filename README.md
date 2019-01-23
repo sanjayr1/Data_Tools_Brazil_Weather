@@ -44,8 +44,8 @@ We will be working with hourly weather data from 120+ weather stations in the so
 
 - Here are a few samples of data points for each attribute. I pulled data from 2 weather stations and kept the data in series to demonstrate how the values may differ.
 
-| wsid| wsnm      | elvt| lat	    |     lon	  |inme|	city	   |prov|	       mdct        |     date   |tmax|	dmax|	tmin|	dmin|	hmdy|	hmax|	hmin|wdsp| wdct  |gust |
-|-----|-----------|-----|--------| --------- |----|-----------|----|---------- ---------|----------- |-----|-----|-----|-----|-----|-----|-----|----|------ |---- |
+| wsid| wsnm       | elvt | lat	     |     lon	  |inme|	city	   |prov|	       mdct        |     date   |tmax|	dmax|	tmin|	dmin|	hmdy|	hmax|	hmin|wdsp| wdct  |gust |
+|-----|------------|------|----------|------------|----|-----------|----|--------------------|----------- |-----|-----|-----|-----|-----|-----|-----|----|------ |---- |
 | 178 | SÃO GONÇALO| 237.0| -6.835777|	-38.311583|A333|São Gonçalo|RJ  |	2007-11-06 05:00:00|	2007-11-06|	25.4|	16.4|	23.8|	16.0|	62.0|	62.0|	57.0|	2.0|	99.0 |	6.8|
 | 178 | SÃO GONÇALO| 237.0| -6.835777|	-38.311583|A333|São Gonçalo|RJ  |	2007-11-06 06:00:00|  2007-11-06|	23.8|	16.7|	22.0|	16.2|	72.0|	72.0|	62.0|	1.3|	93.0 |	4.9|
 | 178	| SÃO GONÇALO| 237.0| -6.835777|	-38.311583|A333|São Gonçalo|RJ  |	2007-11-06 07:00:00|	2007-11-06|	22.0|	17.8|	19.5|	16.6|	86.0|	89.0|	72.0|	0.5|	157.0|	2.8|
