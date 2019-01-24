@@ -69,7 +69,7 @@ We will be working with hourly weather data from 120+ weather stations in the so
 
 
 
-#Tentative Timeline
+# Tentative Timeline
 
 - Data collection: Data attained from Kaggle
 - Data Cleanup: End of Week 5
