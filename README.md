@@ -2,6 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeff326/Data_Tools_Brazil_Weather/6d4a47c93759d01f8d44ceecf6a337d272f460b5)
 
+Main notebook = Brazil.ipynb
+Main presentation = slideshowroughdraft.ipynb
 
 # Team Members and Project Objective
 
